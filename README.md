@@ -5,10 +5,11 @@
 
 ### Author: Jesse Atay
 
+[![Build Status](https://travis-ci.org/jaatay/lab-07-api-server.svg?branch=master)](https://travis-ci.org/jaatay/lab-07-api-server)
 
 
 ### Links and Resources
-* [repo](https://github.com/jaatay/lab04)
+* [repo](https://github.com/jaatay/lab-07-api-server)
 
 
 ### Modules
