@@ -7,7 +7,6 @@
 
 
 [![Build Status](https://travis-ci.org/jaatay/lab-07-api-server.svg?branch=master)](https://travis-ci.org/jaatay/lab-07-api-server)
--build passes in travis CI, but markdown image currently won't update from unknown.
 
 ### Links and Resources
 * [repo](https://github.com/jaatay/lab-07-api-server)
